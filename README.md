@@ -14,7 +14,7 @@ To compile this project:<br>
 		- The Java Runtime Environment files are usually added to the `/usr/bin` directory which should already be added to the system's $PATH variable.
 		- To verify, run `echo $PATH`
 		- If it's missing, append the `/usr/bin` path to the `/etc/paths` file with a text editor.
-- Change directories into the `src` folder:
+- After JDK is installed, change directories into the `src` folder of this project:
 	- `> cd src`
 - Compile the main file:
 	- `> javac MineSweeperGame.java`
@@ -23,7 +23,7 @@ To compile this project:<br>
 ## Running The Game
 
 To run this game in a terminal:<br>
-- Change directories into the `src` folder:
+- If not already in the `src` folder of this project, change directories:
 	- `> cd src`
 - Run the game with the following command:
 	- `> java MineSweeperGame`
