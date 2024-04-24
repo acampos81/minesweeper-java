@@ -9,7 +9,7 @@ To compile this project:<br>
 - Add the **JDK** to your system's PATH variable.
 	- On Windows: 
 		- Add the Java Runtime Environment to your system's PATH variable:
-		- `> setx PATH "%PATH%;C:\Program/ Files\Java\jdk-22\bin" /m`
+		- `> setx PATH "%PATH%;C:\Program Files\Java\jdk-22\bin" /m`
 	- On OSX:
 		- The Java Runtime Environment files are usually added to the `/usr/bin` directory which should already be added to the system's $PATH variable.
 		- To verify, run `echo $PATH`
