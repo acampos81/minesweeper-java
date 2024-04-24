@@ -5,7 +5,7 @@ A CLI version of the classic Minesweeper game implemented in Java.
 ## Compiling The Game
 
 To compile this project:<br>
-- Install **[Java Development Kit] (https://www.oracle.com/java/technologies/downloads/#java11-windows)** for your OS.
+- Install **<a href="https://www.oracle.com/java/technologies/downloads/#java11-windows">Java Development Kit</a>** for your OS.
 - Add the **JDK** to your system's PATH variable.
 	- On Windows: 
 		- Add the Java Runtime Environment to your system's PATH variable:
